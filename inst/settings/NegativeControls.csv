@@ -1,0 +1,1108 @@
+targetId,comparatorId,outcomeId,outcomeName,type
+1773751,1773752,434165,Abnormal cervical smear,outcome
+1773751,1773752,436409,Abnormal pupil,outcome
+1773751,1773752,199192,Abrasion and/or friction burn of trunk without infection,outcome
+1773751,1773752,4088290,Absence of breast,outcome
+1773751,1773752,4092879,Absent kidney,outcome
+1773751,1773752,436634,Acariasis,outcome
+1773751,1773752,44783954,Acid reflux,outcome
+1773751,1773752,75911,Acquired hallux valgus,outcome
+1773751,1773752,137951,Acquired keratoderma,outcome
+1773751,1773752,77965,Acquired trigger finger,outcome
+1773751,1773752,376707,Acute conjunctivitis,outcome
+1773751,1773752,4103640,Amputated foot,outcome
+1773751,1773752,432595,Amyloidosis,outcome
+1773751,1773752,73241,Anal and rectal polyp,outcome
+1773751,1773752,437082,Ankylosing spondylitis,outcome
+1773751,1773752,77650,Aseptic necrosis of bone,outcome
+1773751,1773752,378424,Astigmatism,outcome
+1773751,1773752,374923,Bell's palsy,outcome
+1773751,1773752,4110709,Benign epithelial neoplasm of skin,outcome
+1773751,1773752,133655,Burn of forearm,outcome
+1773751,1773752,73560,Calcaneal spur,outcome
+1773751,1773752,434327,Cannabis abuse,outcome
+1773751,1773752,4213540,Cervical somatic dysfunction,outcome
+1773751,1773752,381581,Chalazion,outcome
+1773751,1773752,140842,Changes in skin texture,outcome
+1773751,1773752,438531,Chondromalacia,outcome
+1773751,1773752,81378,Chondromalacia of patella,outcome
+1773751,1773752,432303,Cocaine abuse,outcome
+1773751,1773752,4201390,Colostomy present,outcome
+1773751,1773752,46269889,Complication due to Crohn's disease,outcome
+1773751,1773752,134438,Contact dermatitis,outcome
+1773751,1773752,78619,Contusion of knee,outcome
+1773751,1773752,201606,Crohn's disease,outcome
+1773751,1773752,260134,Croup,outcome
+1773751,1773752,76786,Derangement of knee,outcome
+1773751,1773752,4115402,Difficulty sleeping,outcome
+1773751,1773752,443767,Disorder of eye due to diabetes mellitus,outcome
+1773751,1773752,45757370,Disproportion of reconstructed breast,outcome
+1773751,1773752,433111,Effects of hunger,outcome
+1773751,1773752,441589,Endocarditis,outcome
+1773751,1773752,200775,Endometrial hyperplasia,outcome
+1773751,1773752,433527,Endometriosis,outcome
+1773751,1773752,73008,Enthesopathy,outcome
+1773751,1773752,4249170,Epicondylitis,outcome
+1773751,1773752,4170770,Epidermoid cyst,outcome
+1773751,1773752,4345472,Epstein-Barr virus disease,outcome
+1773751,1773752,4092896,Feces contents abnormal,outcome
+1773751,1773752,259995,Foreign body in orifice,outcome
+1773751,1773752,4050747,Fracture of upper limb,outcome
+1773751,1773752,196456,Gallstone,outcome
+1773751,1773752,40481632,Ganglion cyst,outcome
+1773751,1773752,4166231,Genetic predisposition,outcome
+1773751,1773752,74855,Genital herpes simplex,outcome
+1773751,1773752,433577,Hammer toe,outcome
+1773751,1773752,441818,Hemangioma,outcome
+1773751,1773752,4231770,Hereditary thrombophilia,outcome
+1773751,1773752,440329,Herpes zoster without complication,outcome
+1773751,1773752,4012570,High risk sexual behavior,outcome
+1773751,1773752,4038835,Hodgkin's disease,outcome
+1773751,1773752,4012934,Homocystinuria,outcome
+1773751,1773752,441788,Human papilloma virus infection,outcome
+1773751,1773752,380688,Hypoglycemic coma,outcome
+1773751,1773752,4254542,Hypopituitarism,outcome
+1773751,1773752,4201717,Ileostomy present,outcome
+1773751,1773752,374375,Impacted cerumen,outcome
+1773751,1773752,140480,Impetigo,outcome
+1773751,1773752,4344500,Impingement syndrome of shoulder region,outcome
+1773751,1773752,139099,Ingrowing nail,outcome
+1773751,1773752,444132,Injury of knee,outcome
+1773751,1773752,434926,Iridocyclitis,outcome
+1773751,1773752,196168,Irregular periods,outcome
+1773751,1773752,75576,Irritable bowel syndrome,outcome
+1773751,1773752,432593,Kwashiorkor,outcome
+1773751,1773752,434203,Late effect of contusion,outcome
+1773751,1773752,438329,Late effect of motor vehicle accident,outcome
+1773751,1773752,443285,Lesion of cervix,outcome
+1773751,1773752,195873,Leukorrhea,outcome
+1773751,1773752,440638,Lyme disease,outcome
+1773751,1773752,4083487,Macular drusen,outcome
+1773751,1773752,4156115,Malignant neoplasm of endocrine gland,outcome
+1773751,1773752,4103703,Melena,outcome
+1773751,1773752,4134455,Mononeuropathy,outcome
+1773751,1773752,4209423,Nicotine dependence,outcome
+1773751,1773752,377572,Noise effects on inner ear,outcome
+1773751,1773752,40480893,Nonspecific tuberculin test reaction,outcome
+1773751,1773752,136368,Non-toxic multinodular goiter,outcome
+1773751,1773752,4215978,Onychomycosis,outcome
+1773751,1773752,140648,Onychomycosis due to dermatophyte,outcome
+1773751,1773752,438130,Opioid abuse,outcome
+1773751,1773752,75354,Osteochondropathy,outcome
+1773751,1773752,192606,Paraplegia,outcome
+1773751,1773752,4091513,Passing flatus,outcome
+1773751,1773752,4112731,Polyp of intestine,outcome
+1773751,1773752,4202045,Postviral fatigue syndrome,outcome
+1773751,1773752,373478,Presbyopia,outcome
+1773751,1773752,46286594,Problem related to lifestyle,outcome
+1773751,1773752,439790,Psychalgia,outcome
+1773751,1773752,81634,Ptotic breast,outcome
+1773751,1773752,253954,Pulmonary tuberculosis,outcome
+1773751,1773752,4087647,Rectal mass,outcome
+1773751,1773752,380706,Regular astigmatism,outcome
+1773751,1773752,438688,Sarcoidosis,outcome
+1773751,1773752,4169984,Scar,outcome
+1773751,1773752,141932,Senile hyperkeratosis,outcome
+1773751,1773752,196236,Septic shock,outcome
+1773751,1773752,254443,Sjögren's syndrome,outcome
+1773751,1773752,36713918,Somatic dysfunction of lumbar region,outcome
+1773751,1773752,443172,"Splinter of face, without major open wound",outcome
+1773751,1773752,81151,Sprain of ankle,outcome
+1773751,1773752,72748,Strain of rotator cuff capsule,outcome
+1773751,1773752,378427,Tear film insufficiency,outcome
+1773751,1773752,134461,Tietze's disease,outcome
+1773751,1773752,437264,Tobacco dependence syndrome,outcome
+1773751,1773752,4234533,Tonsillitis,outcome
+1773751,1773752,4030042,Toxic goiter,outcome
+1773751,1773752,81893,Ulcerative colitis,outcome
+1773751,1773752,194083,Vaginitis and vulvovaginitis,outcome
+1773751,1773752,140641,Verruca vulgaris,outcome
+1773751,1773752,380038,Viral conjunctivitis,outcome
+1773751,1773752,4291005,Viral hepatitis,outcome
+1773751,1773752,4248870,Visceroptosis,outcome
+1773751,1773752,440193,Wristdrop,outcome
+1773751,1773752,4115367,Wrist joint pain,outcome
+1773760,1773761,434165,Abnormal cervical smear,outcome
+1773760,1773761,436409,Abnormal pupil,outcome
+1773760,1773761,199192,Abrasion and/or friction burn of trunk without infection,outcome
+1773760,1773761,4088290,Absence of breast,outcome
+1773760,1773761,4092879,Absent kidney,outcome
+1773760,1773761,436634,Acariasis,outcome
+1773760,1773761,44783954,Acid reflux,outcome
+1773760,1773761,75911,Acquired hallux valgus,outcome
+1773760,1773761,137951,Acquired keratoderma,outcome
+1773760,1773761,77965,Acquired trigger finger,outcome
+1773760,1773761,376707,Acute conjunctivitis,outcome
+1773760,1773761,4103640,Amputated foot,outcome
+1773760,1773761,432595,Amyloidosis,outcome
+1773760,1773761,73241,Anal and rectal polyp,outcome
+1773760,1773761,437082,Ankylosing spondylitis,outcome
+1773760,1773761,77650,Aseptic necrosis of bone,outcome
+1773760,1773761,378424,Astigmatism,outcome
+1773760,1773761,374923,Bell's palsy,outcome
+1773760,1773761,4110709,Benign epithelial neoplasm of skin,outcome
+1773760,1773761,133655,Burn of forearm,outcome
+1773760,1773761,73560,Calcaneal spur,outcome
+1773760,1773761,434327,Cannabis abuse,outcome
+1773760,1773761,4213540,Cervical somatic dysfunction,outcome
+1773760,1773761,381581,Chalazion,outcome
+1773760,1773761,140842,Changes in skin texture,outcome
+1773760,1773761,438531,Chondromalacia,outcome
+1773760,1773761,81378,Chondromalacia of patella,outcome
+1773760,1773761,432303,Cocaine abuse,outcome
+1773760,1773761,4201390,Colostomy present,outcome
+1773760,1773761,46269889,Complication due to Crohn's disease,outcome
+1773760,1773761,134438,Contact dermatitis,outcome
+1773760,1773761,78619,Contusion of knee,outcome
+1773760,1773761,201606,Crohn's disease,outcome
+1773760,1773761,260134,Croup,outcome
+1773760,1773761,76786,Derangement of knee,outcome
+1773760,1773761,4115402,Difficulty sleeping,outcome
+1773760,1773761,443767,Disorder of eye due to diabetes mellitus,outcome
+1773760,1773761,45757370,Disproportion of reconstructed breast,outcome
+1773760,1773761,433111,Effects of hunger,outcome
+1773760,1773761,441589,Endocarditis,outcome
+1773760,1773761,200775,Endometrial hyperplasia,outcome
+1773760,1773761,433527,Endometriosis,outcome
+1773760,1773761,73008,Enthesopathy,outcome
+1773760,1773761,4249170,Epicondylitis,outcome
+1773760,1773761,4170770,Epidermoid cyst,outcome
+1773760,1773761,4345472,Epstein-Barr virus disease,outcome
+1773760,1773761,4092896,Feces contents abnormal,outcome
+1773760,1773761,259995,Foreign body in orifice,outcome
+1773760,1773761,4050747,Fracture of upper limb,outcome
+1773760,1773761,196456,Gallstone,outcome
+1773760,1773761,40481632,Ganglion cyst,outcome
+1773760,1773761,4166231,Genetic predisposition,outcome
+1773760,1773761,74855,Genital herpes simplex,outcome
+1773760,1773761,433577,Hammer toe,outcome
+1773760,1773761,441818,Hemangioma,outcome
+1773760,1773761,4231770,Hereditary thrombophilia,outcome
+1773760,1773761,440329,Herpes zoster without complication,outcome
+1773760,1773761,4012570,High risk sexual behavior,outcome
+1773760,1773761,4038835,Hodgkin's disease,outcome
+1773760,1773761,4012934,Homocystinuria,outcome
+1773760,1773761,441788,Human papilloma virus infection,outcome
+1773760,1773761,380688,Hypoglycemic coma,outcome
+1773760,1773761,4254542,Hypopituitarism,outcome
+1773760,1773761,4201717,Ileostomy present,outcome
+1773760,1773761,374375,Impacted cerumen,outcome
+1773760,1773761,140480,Impetigo,outcome
+1773760,1773761,4344500,Impingement syndrome of shoulder region,outcome
+1773760,1773761,139099,Ingrowing nail,outcome
+1773760,1773761,444132,Injury of knee,outcome
+1773760,1773761,434926,Iridocyclitis,outcome
+1773760,1773761,196168,Irregular periods,outcome
+1773760,1773761,75576,Irritable bowel syndrome,outcome
+1773760,1773761,432593,Kwashiorkor,outcome
+1773760,1773761,434203,Late effect of contusion,outcome
+1773760,1773761,438329,Late effect of motor vehicle accident,outcome
+1773760,1773761,443285,Lesion of cervix,outcome
+1773760,1773761,195873,Leukorrhea,outcome
+1773760,1773761,440638,Lyme disease,outcome
+1773760,1773761,4083487,Macular drusen,outcome
+1773760,1773761,4156115,Malignant neoplasm of endocrine gland,outcome
+1773760,1773761,4103703,Melena,outcome
+1773760,1773761,4134455,Mononeuropathy,outcome
+1773760,1773761,4209423,Nicotine dependence,outcome
+1773760,1773761,377572,Noise effects on inner ear,outcome
+1773760,1773761,40480893,Nonspecific tuberculin test reaction,outcome
+1773760,1773761,136368,Non-toxic multinodular goiter,outcome
+1773760,1773761,4215978,Onychomycosis,outcome
+1773760,1773761,140648,Onychomycosis due to dermatophyte,outcome
+1773760,1773761,438130,Opioid abuse,outcome
+1773760,1773761,75354,Osteochondropathy,outcome
+1773760,1773761,192606,Paraplegia,outcome
+1773760,1773761,4091513,Passing flatus,outcome
+1773760,1773761,4112731,Polyp of intestine,outcome
+1773760,1773761,4202045,Postviral fatigue syndrome,outcome
+1773760,1773761,373478,Presbyopia,outcome
+1773760,1773761,46286594,Problem related to lifestyle,outcome
+1773760,1773761,439790,Psychalgia,outcome
+1773760,1773761,81634,Ptotic breast,outcome
+1773760,1773761,253954,Pulmonary tuberculosis,outcome
+1773760,1773761,4087647,Rectal mass,outcome
+1773760,1773761,380706,Regular astigmatism,outcome
+1773760,1773761,438688,Sarcoidosis,outcome
+1773760,1773761,4169984,Scar,outcome
+1773760,1773761,141932,Senile hyperkeratosis,outcome
+1773760,1773761,196236,Septic shock,outcome
+1773760,1773761,254443,Sjögren's syndrome,outcome
+1773760,1773761,36713918,Somatic dysfunction of lumbar region,outcome
+1773760,1773761,443172,"Splinter of face, without major open wound",outcome
+1773760,1773761,81151,Sprain of ankle,outcome
+1773760,1773761,72748,Strain of rotator cuff capsule,outcome
+1773760,1773761,378427,Tear film insufficiency,outcome
+1773760,1773761,134461,Tietze's disease,outcome
+1773760,1773761,437264,Tobacco dependence syndrome,outcome
+1773760,1773761,4234533,Tonsillitis,outcome
+1773760,1773761,4030042,Toxic goiter,outcome
+1773760,1773761,81893,Ulcerative colitis,outcome
+1773760,1773761,194083,Vaginitis and vulvovaginitis,outcome
+1773760,1773761,140641,Verruca vulgaris,outcome
+1773760,1773761,380038,Viral conjunctivitis,outcome
+1773760,1773761,4291005,Viral hepatitis,outcome
+1773760,1773761,4248870,Visceroptosis,outcome
+1773760,1773761,440193,Wristdrop,outcome
+1773760,1773761,4115367,Wrist joint pain,outcome
+1773762,1773763,434165,Abnormal cervical smear,outcome
+1773762,1773763,436409,Abnormal pupil,outcome
+1773762,1773763,199192,Abrasion and/or friction burn of trunk without infection,outcome
+1773762,1773763,4088290,Absence of breast,outcome
+1773762,1773763,4092879,Absent kidney,outcome
+1773762,1773763,436634,Acariasis,outcome
+1773762,1773763,44783954,Acid reflux,outcome
+1773762,1773763,75911,Acquired hallux valgus,outcome
+1773762,1773763,137951,Acquired keratoderma,outcome
+1773762,1773763,77965,Acquired trigger finger,outcome
+1773762,1773763,376707,Acute conjunctivitis,outcome
+1773762,1773763,4103640,Amputated foot,outcome
+1773762,1773763,432595,Amyloidosis,outcome
+1773762,1773763,73241,Anal and rectal polyp,outcome
+1773762,1773763,437082,Ankylosing spondylitis,outcome
+1773762,1773763,77650,Aseptic necrosis of bone,outcome
+1773762,1773763,378424,Astigmatism,outcome
+1773762,1773763,374923,Bell's palsy,outcome
+1773762,1773763,4110709,Benign epithelial neoplasm of skin,outcome
+1773762,1773763,133655,Burn of forearm,outcome
+1773762,1773763,73560,Calcaneal spur,outcome
+1773762,1773763,434327,Cannabis abuse,outcome
+1773762,1773763,4213540,Cervical somatic dysfunction,outcome
+1773762,1773763,381581,Chalazion,outcome
+1773762,1773763,140842,Changes in skin texture,outcome
+1773762,1773763,438531,Chondromalacia,outcome
+1773762,1773763,81378,Chondromalacia of patella,outcome
+1773762,1773763,432303,Cocaine abuse,outcome
+1773762,1773763,4201390,Colostomy present,outcome
+1773762,1773763,46269889,Complication due to Crohn's disease,outcome
+1773762,1773763,134438,Contact dermatitis,outcome
+1773762,1773763,78619,Contusion of knee,outcome
+1773762,1773763,201606,Crohn's disease,outcome
+1773762,1773763,260134,Croup,outcome
+1773762,1773763,76786,Derangement of knee,outcome
+1773762,1773763,4115402,Difficulty sleeping,outcome
+1773762,1773763,443767,Disorder of eye due to diabetes mellitus,outcome
+1773762,1773763,45757370,Disproportion of reconstructed breast,outcome
+1773762,1773763,433111,Effects of hunger,outcome
+1773762,1773763,441589,Endocarditis,outcome
+1773762,1773763,200775,Endometrial hyperplasia,outcome
+1773762,1773763,433527,Endometriosis,outcome
+1773762,1773763,73008,Enthesopathy,outcome
+1773762,1773763,4249170,Epicondylitis,outcome
+1773762,1773763,4170770,Epidermoid cyst,outcome
+1773762,1773763,4345472,Epstein-Barr virus disease,outcome
+1773762,1773763,4092896,Feces contents abnormal,outcome
+1773762,1773763,259995,Foreign body in orifice,outcome
+1773762,1773763,4050747,Fracture of upper limb,outcome
+1773762,1773763,196456,Gallstone,outcome
+1773762,1773763,40481632,Ganglion cyst,outcome
+1773762,1773763,4166231,Genetic predisposition,outcome
+1773762,1773763,74855,Genital herpes simplex,outcome
+1773762,1773763,433577,Hammer toe,outcome
+1773762,1773763,441818,Hemangioma,outcome
+1773762,1773763,4231770,Hereditary thrombophilia,outcome
+1773762,1773763,440329,Herpes zoster without complication,outcome
+1773762,1773763,4012570,High risk sexual behavior,outcome
+1773762,1773763,4038835,Hodgkin's disease,outcome
+1773762,1773763,4012934,Homocystinuria,outcome
+1773762,1773763,441788,Human papilloma virus infection,outcome
+1773762,1773763,380688,Hypoglycemic coma,outcome
+1773762,1773763,4254542,Hypopituitarism,outcome
+1773762,1773763,4201717,Ileostomy present,outcome
+1773762,1773763,374375,Impacted cerumen,outcome
+1773762,1773763,140480,Impetigo,outcome
+1773762,1773763,4344500,Impingement syndrome of shoulder region,outcome
+1773762,1773763,139099,Ingrowing nail,outcome
+1773762,1773763,444132,Injury of knee,outcome
+1773762,1773763,434926,Iridocyclitis,outcome
+1773762,1773763,196168,Irregular periods,outcome
+1773762,1773763,75576,Irritable bowel syndrome,outcome
+1773762,1773763,432593,Kwashiorkor,outcome
+1773762,1773763,434203,Late effect of contusion,outcome
+1773762,1773763,438329,Late effect of motor vehicle accident,outcome
+1773762,1773763,443285,Lesion of cervix,outcome
+1773762,1773763,195873,Leukorrhea,outcome
+1773762,1773763,440638,Lyme disease,outcome
+1773762,1773763,4083487,Macular drusen,outcome
+1773762,1773763,4156115,Malignant neoplasm of endocrine gland,outcome
+1773762,1773763,4103703,Melena,outcome
+1773762,1773763,4134455,Mononeuropathy,outcome
+1773762,1773763,4209423,Nicotine dependence,outcome
+1773762,1773763,377572,Noise effects on inner ear,outcome
+1773762,1773763,40480893,Nonspecific tuberculin test reaction,outcome
+1773762,1773763,136368,Non-toxic multinodular goiter,outcome
+1773762,1773763,4215978,Onychomycosis,outcome
+1773762,1773763,140648,Onychomycosis due to dermatophyte,outcome
+1773762,1773763,438130,Opioid abuse,outcome
+1773762,1773763,75354,Osteochondropathy,outcome
+1773762,1773763,192606,Paraplegia,outcome
+1773762,1773763,4091513,Passing flatus,outcome
+1773762,1773763,4112731,Polyp of intestine,outcome
+1773762,1773763,4202045,Postviral fatigue syndrome,outcome
+1773762,1773763,373478,Presbyopia,outcome
+1773762,1773763,46286594,Problem related to lifestyle,outcome
+1773762,1773763,439790,Psychalgia,outcome
+1773762,1773763,81634,Ptotic breast,outcome
+1773762,1773763,253954,Pulmonary tuberculosis,outcome
+1773762,1773763,4087647,Rectal mass,outcome
+1773762,1773763,380706,Regular astigmatism,outcome
+1773762,1773763,438688,Sarcoidosis,outcome
+1773762,1773763,4169984,Scar,outcome
+1773762,1773763,141932,Senile hyperkeratosis,outcome
+1773762,1773763,196236,Septic shock,outcome
+1773762,1773763,254443,Sjögren's syndrome,outcome
+1773762,1773763,36713918,Somatic dysfunction of lumbar region,outcome
+1773762,1773763,443172,"Splinter of face, without major open wound",outcome
+1773762,1773763,81151,Sprain of ankle,outcome
+1773762,1773763,72748,Strain of rotator cuff capsule,outcome
+1773762,1773763,378427,Tear film insufficiency,outcome
+1773762,1773763,134461,Tietze's disease,outcome
+1773762,1773763,437264,Tobacco dependence syndrome,outcome
+1773762,1773763,4234533,Tonsillitis,outcome
+1773762,1773763,4030042,Toxic goiter,outcome
+1773762,1773763,81893,Ulcerative colitis,outcome
+1773762,1773763,194083,Vaginitis and vulvovaginitis,outcome
+1773762,1773763,140641,Verruca vulgaris,outcome
+1773762,1773763,380038,Viral conjunctivitis,outcome
+1773762,1773763,4291005,Viral hepatitis,outcome
+1773762,1773763,4248870,Visceroptosis,outcome
+1773762,1773763,440193,Wristdrop,outcome
+1773762,1773763,4115367,Wrist joint pain,outcome
+1773764,1773752,434165,Abnormal cervical smear,outcome
+1773764,1773752,436409,Abnormal pupil,outcome
+1773764,1773752,199192,Abrasion and/or friction burn of trunk without infection,outcome
+1773764,1773752,4088290,Absence of breast,outcome
+1773764,1773752,4092879,Absent kidney,outcome
+1773764,1773752,436634,Acariasis,outcome
+1773764,1773752,44783954,Acid reflux,outcome
+1773764,1773752,75911,Acquired hallux valgus,outcome
+1773764,1773752,137951,Acquired keratoderma,outcome
+1773764,1773752,77965,Acquired trigger finger,outcome
+1773764,1773752,376707,Acute conjunctivitis,outcome
+1773764,1773752,4103640,Amputated foot,outcome
+1773764,1773752,432595,Amyloidosis,outcome
+1773764,1773752,73241,Anal and rectal polyp,outcome
+1773764,1773752,437082,Ankylosing spondylitis,outcome
+1773764,1773752,77650,Aseptic necrosis of bone,outcome
+1773764,1773752,378424,Astigmatism,outcome
+1773764,1773752,374923,Bell's palsy,outcome
+1773764,1773752,4110709,Benign epithelial neoplasm of skin,outcome
+1773764,1773752,133655,Burn of forearm,outcome
+1773764,1773752,73560,Calcaneal spur,outcome
+1773764,1773752,434327,Cannabis abuse,outcome
+1773764,1773752,4213540,Cervical somatic dysfunction,outcome
+1773764,1773752,381581,Chalazion,outcome
+1773764,1773752,140842,Changes in skin texture,outcome
+1773764,1773752,438531,Chondromalacia,outcome
+1773764,1773752,81378,Chondromalacia of patella,outcome
+1773764,1773752,432303,Cocaine abuse,outcome
+1773764,1773752,4201390,Colostomy present,outcome
+1773764,1773752,46269889,Complication due to Crohn's disease,outcome
+1773764,1773752,134438,Contact dermatitis,outcome
+1773764,1773752,78619,Contusion of knee,outcome
+1773764,1773752,201606,Crohn's disease,outcome
+1773764,1773752,260134,Croup,outcome
+1773764,1773752,76786,Derangement of knee,outcome
+1773764,1773752,4115402,Difficulty sleeping,outcome
+1773764,1773752,443767,Disorder of eye due to diabetes mellitus,outcome
+1773764,1773752,45757370,Disproportion of reconstructed breast,outcome
+1773764,1773752,433111,Effects of hunger,outcome
+1773764,1773752,441589,Endocarditis,outcome
+1773764,1773752,200775,Endometrial hyperplasia,outcome
+1773764,1773752,433527,Endometriosis,outcome
+1773764,1773752,73008,Enthesopathy,outcome
+1773764,1773752,4249170,Epicondylitis,outcome
+1773764,1773752,4170770,Epidermoid cyst,outcome
+1773764,1773752,4345472,Epstein-Barr virus disease,outcome
+1773764,1773752,4092896,Feces contents abnormal,outcome
+1773764,1773752,259995,Foreign body in orifice,outcome
+1773764,1773752,4050747,Fracture of upper limb,outcome
+1773764,1773752,196456,Gallstone,outcome
+1773764,1773752,40481632,Ganglion cyst,outcome
+1773764,1773752,4166231,Genetic predisposition,outcome
+1773764,1773752,74855,Genital herpes simplex,outcome
+1773764,1773752,433577,Hammer toe,outcome
+1773764,1773752,441818,Hemangioma,outcome
+1773764,1773752,4231770,Hereditary thrombophilia,outcome
+1773764,1773752,440329,Herpes zoster without complication,outcome
+1773764,1773752,4012570,High risk sexual behavior,outcome
+1773764,1773752,4038835,Hodgkin's disease,outcome
+1773764,1773752,4012934,Homocystinuria,outcome
+1773764,1773752,441788,Human papilloma virus infection,outcome
+1773764,1773752,380688,Hypoglycemic coma,outcome
+1773764,1773752,4254542,Hypopituitarism,outcome
+1773764,1773752,4201717,Ileostomy present,outcome
+1773764,1773752,374375,Impacted cerumen,outcome
+1773764,1773752,140480,Impetigo,outcome
+1773764,1773752,4344500,Impingement syndrome of shoulder region,outcome
+1773764,1773752,139099,Ingrowing nail,outcome
+1773764,1773752,444132,Injury of knee,outcome
+1773764,1773752,434926,Iridocyclitis,outcome
+1773764,1773752,196168,Irregular periods,outcome
+1773764,1773752,75576,Irritable bowel syndrome,outcome
+1773764,1773752,432593,Kwashiorkor,outcome
+1773764,1773752,434203,Late effect of contusion,outcome
+1773764,1773752,438329,Late effect of motor vehicle accident,outcome
+1773764,1773752,443285,Lesion of cervix,outcome
+1773764,1773752,195873,Leukorrhea,outcome
+1773764,1773752,440638,Lyme disease,outcome
+1773764,1773752,4083487,Macular drusen,outcome
+1773764,1773752,4156115,Malignant neoplasm of endocrine gland,outcome
+1773764,1773752,4103703,Melena,outcome
+1773764,1773752,4134455,Mononeuropathy,outcome
+1773764,1773752,4209423,Nicotine dependence,outcome
+1773764,1773752,377572,Noise effects on inner ear,outcome
+1773764,1773752,40480893,Nonspecific tuberculin test reaction,outcome
+1773764,1773752,136368,Non-toxic multinodular goiter,outcome
+1773764,1773752,4215978,Onychomycosis,outcome
+1773764,1773752,140648,Onychomycosis due to dermatophyte,outcome
+1773764,1773752,438130,Opioid abuse,outcome
+1773764,1773752,75354,Osteochondropathy,outcome
+1773764,1773752,192606,Paraplegia,outcome
+1773764,1773752,4091513,Passing flatus,outcome
+1773764,1773752,4112731,Polyp of intestine,outcome
+1773764,1773752,4202045,Postviral fatigue syndrome,outcome
+1773764,1773752,373478,Presbyopia,outcome
+1773764,1773752,46286594,Problem related to lifestyle,outcome
+1773764,1773752,439790,Psychalgia,outcome
+1773764,1773752,81634,Ptotic breast,outcome
+1773764,1773752,253954,Pulmonary tuberculosis,outcome
+1773764,1773752,4087647,Rectal mass,outcome
+1773764,1773752,380706,Regular astigmatism,outcome
+1773764,1773752,438688,Sarcoidosis,outcome
+1773764,1773752,4169984,Scar,outcome
+1773764,1773752,141932,Senile hyperkeratosis,outcome
+1773764,1773752,196236,Septic shock,outcome
+1773764,1773752,254443,Sjögren's syndrome,outcome
+1773764,1773752,36713918,Somatic dysfunction of lumbar region,outcome
+1773764,1773752,443172,"Splinter of face, without major open wound",outcome
+1773764,1773752,81151,Sprain of ankle,outcome
+1773764,1773752,72748,Strain of rotator cuff capsule,outcome
+1773764,1773752,378427,Tear film insufficiency,outcome
+1773764,1773752,134461,Tietze's disease,outcome
+1773764,1773752,437264,Tobacco dependence syndrome,outcome
+1773764,1773752,4234533,Tonsillitis,outcome
+1773764,1773752,4030042,Toxic goiter,outcome
+1773764,1773752,81893,Ulcerative colitis,outcome
+1773764,1773752,194083,Vaginitis and vulvovaginitis,outcome
+1773764,1773752,140641,Verruca vulgaris,outcome
+1773764,1773752,380038,Viral conjunctivitis,outcome
+1773764,1773752,4291005,Viral hepatitis,outcome
+1773764,1773752,4248870,Visceroptosis,outcome
+1773764,1773752,440193,Wristdrop,outcome
+1773764,1773752,4115367,Wrist joint pain,outcome
+1773765,1773761,434165,Abnormal cervical smear,outcome
+1773765,1773761,436409,Abnormal pupil,outcome
+1773765,1773761,199192,Abrasion and/or friction burn of trunk without infection,outcome
+1773765,1773761,4088290,Absence of breast,outcome
+1773765,1773761,4092879,Absent kidney,outcome
+1773765,1773761,436634,Acariasis,outcome
+1773765,1773761,44783954,Acid reflux,outcome
+1773765,1773761,75911,Acquired hallux valgus,outcome
+1773765,1773761,137951,Acquired keratoderma,outcome
+1773765,1773761,77965,Acquired trigger finger,outcome
+1773765,1773761,376707,Acute conjunctivitis,outcome
+1773765,1773761,4103640,Amputated foot,outcome
+1773765,1773761,432595,Amyloidosis,outcome
+1773765,1773761,73241,Anal and rectal polyp,outcome
+1773765,1773761,437082,Ankylosing spondylitis,outcome
+1773765,1773761,77650,Aseptic necrosis of bone,outcome
+1773765,1773761,378424,Astigmatism,outcome
+1773765,1773761,374923,Bell's palsy,outcome
+1773765,1773761,4110709,Benign epithelial neoplasm of skin,outcome
+1773765,1773761,133655,Burn of forearm,outcome
+1773765,1773761,73560,Calcaneal spur,outcome
+1773765,1773761,434327,Cannabis abuse,outcome
+1773765,1773761,4213540,Cervical somatic dysfunction,outcome
+1773765,1773761,381581,Chalazion,outcome
+1773765,1773761,140842,Changes in skin texture,outcome
+1773765,1773761,438531,Chondromalacia,outcome
+1773765,1773761,81378,Chondromalacia of patella,outcome
+1773765,1773761,432303,Cocaine abuse,outcome
+1773765,1773761,4201390,Colostomy present,outcome
+1773765,1773761,46269889,Complication due to Crohn's disease,outcome
+1773765,1773761,134438,Contact dermatitis,outcome
+1773765,1773761,78619,Contusion of knee,outcome
+1773765,1773761,201606,Crohn's disease,outcome
+1773765,1773761,260134,Croup,outcome
+1773765,1773761,76786,Derangement of knee,outcome
+1773765,1773761,4115402,Difficulty sleeping,outcome
+1773765,1773761,443767,Disorder of eye due to diabetes mellitus,outcome
+1773765,1773761,45757370,Disproportion of reconstructed breast,outcome
+1773765,1773761,433111,Effects of hunger,outcome
+1773765,1773761,441589,Endocarditis,outcome
+1773765,1773761,200775,Endometrial hyperplasia,outcome
+1773765,1773761,433527,Endometriosis,outcome
+1773765,1773761,73008,Enthesopathy,outcome
+1773765,1773761,4249170,Epicondylitis,outcome
+1773765,1773761,4170770,Epidermoid cyst,outcome
+1773765,1773761,4345472,Epstein-Barr virus disease,outcome
+1773765,1773761,4092896,Feces contents abnormal,outcome
+1773765,1773761,259995,Foreign body in orifice,outcome
+1773765,1773761,4050747,Fracture of upper limb,outcome
+1773765,1773761,196456,Gallstone,outcome
+1773765,1773761,40481632,Ganglion cyst,outcome
+1773765,1773761,4166231,Genetic predisposition,outcome
+1773765,1773761,74855,Genital herpes simplex,outcome
+1773765,1773761,433577,Hammer toe,outcome
+1773765,1773761,441818,Hemangioma,outcome
+1773765,1773761,4231770,Hereditary thrombophilia,outcome
+1773765,1773761,440329,Herpes zoster without complication,outcome
+1773765,1773761,4012570,High risk sexual behavior,outcome
+1773765,1773761,4038835,Hodgkin's disease,outcome
+1773765,1773761,4012934,Homocystinuria,outcome
+1773765,1773761,441788,Human papilloma virus infection,outcome
+1773765,1773761,380688,Hypoglycemic coma,outcome
+1773765,1773761,4254542,Hypopituitarism,outcome
+1773765,1773761,4201717,Ileostomy present,outcome
+1773765,1773761,374375,Impacted cerumen,outcome
+1773765,1773761,140480,Impetigo,outcome
+1773765,1773761,4344500,Impingement syndrome of shoulder region,outcome
+1773765,1773761,139099,Ingrowing nail,outcome
+1773765,1773761,444132,Injury of knee,outcome
+1773765,1773761,434926,Iridocyclitis,outcome
+1773765,1773761,196168,Irregular periods,outcome
+1773765,1773761,75576,Irritable bowel syndrome,outcome
+1773765,1773761,432593,Kwashiorkor,outcome
+1773765,1773761,434203,Late effect of contusion,outcome
+1773765,1773761,438329,Late effect of motor vehicle accident,outcome
+1773765,1773761,443285,Lesion of cervix,outcome
+1773765,1773761,195873,Leukorrhea,outcome
+1773765,1773761,440638,Lyme disease,outcome
+1773765,1773761,4083487,Macular drusen,outcome
+1773765,1773761,4156115,Malignant neoplasm of endocrine gland,outcome
+1773765,1773761,4103703,Melena,outcome
+1773765,1773761,4134455,Mononeuropathy,outcome
+1773765,1773761,4209423,Nicotine dependence,outcome
+1773765,1773761,377572,Noise effects on inner ear,outcome
+1773765,1773761,40480893,Nonspecific tuberculin test reaction,outcome
+1773765,1773761,136368,Non-toxic multinodular goiter,outcome
+1773765,1773761,4215978,Onychomycosis,outcome
+1773765,1773761,140648,Onychomycosis due to dermatophyte,outcome
+1773765,1773761,438130,Opioid abuse,outcome
+1773765,1773761,75354,Osteochondropathy,outcome
+1773765,1773761,192606,Paraplegia,outcome
+1773765,1773761,4091513,Passing flatus,outcome
+1773765,1773761,4112731,Polyp of intestine,outcome
+1773765,1773761,4202045,Postviral fatigue syndrome,outcome
+1773765,1773761,373478,Presbyopia,outcome
+1773765,1773761,46286594,Problem related to lifestyle,outcome
+1773765,1773761,439790,Psychalgia,outcome
+1773765,1773761,81634,Ptotic breast,outcome
+1773765,1773761,253954,Pulmonary tuberculosis,outcome
+1773765,1773761,4087647,Rectal mass,outcome
+1773765,1773761,380706,Regular astigmatism,outcome
+1773765,1773761,438688,Sarcoidosis,outcome
+1773765,1773761,4169984,Scar,outcome
+1773765,1773761,141932,Senile hyperkeratosis,outcome
+1773765,1773761,196236,Septic shock,outcome
+1773765,1773761,254443,Sjögren's syndrome,outcome
+1773765,1773761,36713918,Somatic dysfunction of lumbar region,outcome
+1773765,1773761,443172,"Splinter of face, without major open wound",outcome
+1773765,1773761,81151,Sprain of ankle,outcome
+1773765,1773761,72748,Strain of rotator cuff capsule,outcome
+1773765,1773761,378427,Tear film insufficiency,outcome
+1773765,1773761,134461,Tietze's disease,outcome
+1773765,1773761,437264,Tobacco dependence syndrome,outcome
+1773765,1773761,4234533,Tonsillitis,outcome
+1773765,1773761,4030042,Toxic goiter,outcome
+1773765,1773761,81893,Ulcerative colitis,outcome
+1773765,1773761,194083,Vaginitis and vulvovaginitis,outcome
+1773765,1773761,140641,Verruca vulgaris,outcome
+1773765,1773761,380038,Viral conjunctivitis,outcome
+1773765,1773761,4291005,Viral hepatitis,outcome
+1773765,1773761,4248870,Visceroptosis,outcome
+1773765,1773761,440193,Wristdrop,outcome
+1773765,1773761,4115367,Wrist joint pain,outcome
+1773766,1773763,434165,Abnormal cervical smear,outcome
+1773766,1773763,436409,Abnormal pupil,outcome
+1773766,1773763,199192,Abrasion and/or friction burn of trunk without infection,outcome
+1773766,1773763,4088290,Absence of breast,outcome
+1773766,1773763,4092879,Absent kidney,outcome
+1773766,1773763,436634,Acariasis,outcome
+1773766,1773763,44783954,Acid reflux,outcome
+1773766,1773763,75911,Acquired hallux valgus,outcome
+1773766,1773763,137951,Acquired keratoderma,outcome
+1773766,1773763,77965,Acquired trigger finger,outcome
+1773766,1773763,376707,Acute conjunctivitis,outcome
+1773766,1773763,4103640,Amputated foot,outcome
+1773766,1773763,432595,Amyloidosis,outcome
+1773766,1773763,73241,Anal and rectal polyp,outcome
+1773766,1773763,437082,Ankylosing spondylitis,outcome
+1773766,1773763,77650,Aseptic necrosis of bone,outcome
+1773766,1773763,378424,Astigmatism,outcome
+1773766,1773763,374923,Bell's palsy,outcome
+1773766,1773763,4110709,Benign epithelial neoplasm of skin,outcome
+1773766,1773763,133655,Burn of forearm,outcome
+1773766,1773763,73560,Calcaneal spur,outcome
+1773766,1773763,434327,Cannabis abuse,outcome
+1773766,1773763,4213540,Cervical somatic dysfunction,outcome
+1773766,1773763,381581,Chalazion,outcome
+1773766,1773763,140842,Changes in skin texture,outcome
+1773766,1773763,438531,Chondromalacia,outcome
+1773766,1773763,81378,Chondromalacia of patella,outcome
+1773766,1773763,432303,Cocaine abuse,outcome
+1773766,1773763,4201390,Colostomy present,outcome
+1773766,1773763,46269889,Complication due to Crohn's disease,outcome
+1773766,1773763,134438,Contact dermatitis,outcome
+1773766,1773763,78619,Contusion of knee,outcome
+1773766,1773763,201606,Crohn's disease,outcome
+1773766,1773763,260134,Croup,outcome
+1773766,1773763,76786,Derangement of knee,outcome
+1773766,1773763,4115402,Difficulty sleeping,outcome
+1773766,1773763,443767,Disorder of eye due to diabetes mellitus,outcome
+1773766,1773763,45757370,Disproportion of reconstructed breast,outcome
+1773766,1773763,433111,Effects of hunger,outcome
+1773766,1773763,441589,Endocarditis,outcome
+1773766,1773763,200775,Endometrial hyperplasia,outcome
+1773766,1773763,433527,Endometriosis,outcome
+1773766,1773763,73008,Enthesopathy,outcome
+1773766,1773763,4249170,Epicondylitis,outcome
+1773766,1773763,4170770,Epidermoid cyst,outcome
+1773766,1773763,4345472,Epstein-Barr virus disease,outcome
+1773766,1773763,4092896,Feces contents abnormal,outcome
+1773766,1773763,259995,Foreign body in orifice,outcome
+1773766,1773763,4050747,Fracture of upper limb,outcome
+1773766,1773763,196456,Gallstone,outcome
+1773766,1773763,40481632,Ganglion cyst,outcome
+1773766,1773763,4166231,Genetic predisposition,outcome
+1773766,1773763,74855,Genital herpes simplex,outcome
+1773766,1773763,433577,Hammer toe,outcome
+1773766,1773763,441818,Hemangioma,outcome
+1773766,1773763,4231770,Hereditary thrombophilia,outcome
+1773766,1773763,440329,Herpes zoster without complication,outcome
+1773766,1773763,4012570,High risk sexual behavior,outcome
+1773766,1773763,4038835,Hodgkin's disease,outcome
+1773766,1773763,4012934,Homocystinuria,outcome
+1773766,1773763,441788,Human papilloma virus infection,outcome
+1773766,1773763,380688,Hypoglycemic coma,outcome
+1773766,1773763,4254542,Hypopituitarism,outcome
+1773766,1773763,4201717,Ileostomy present,outcome
+1773766,1773763,374375,Impacted cerumen,outcome
+1773766,1773763,140480,Impetigo,outcome
+1773766,1773763,4344500,Impingement syndrome of shoulder region,outcome
+1773766,1773763,139099,Ingrowing nail,outcome
+1773766,1773763,444132,Injury of knee,outcome
+1773766,1773763,434926,Iridocyclitis,outcome
+1773766,1773763,196168,Irregular periods,outcome
+1773766,1773763,75576,Irritable bowel syndrome,outcome
+1773766,1773763,432593,Kwashiorkor,outcome
+1773766,1773763,434203,Late effect of contusion,outcome
+1773766,1773763,438329,Late effect of motor vehicle accident,outcome
+1773766,1773763,443285,Lesion of cervix,outcome
+1773766,1773763,195873,Leukorrhea,outcome
+1773766,1773763,440638,Lyme disease,outcome
+1773766,1773763,4083487,Macular drusen,outcome
+1773766,1773763,4156115,Malignant neoplasm of endocrine gland,outcome
+1773766,1773763,4103703,Melena,outcome
+1773766,1773763,4134455,Mononeuropathy,outcome
+1773766,1773763,4209423,Nicotine dependence,outcome
+1773766,1773763,377572,Noise effects on inner ear,outcome
+1773766,1773763,40480893,Nonspecific tuberculin test reaction,outcome
+1773766,1773763,136368,Non-toxic multinodular goiter,outcome
+1773766,1773763,4215978,Onychomycosis,outcome
+1773766,1773763,140648,Onychomycosis due to dermatophyte,outcome
+1773766,1773763,438130,Opioid abuse,outcome
+1773766,1773763,75354,Osteochondropathy,outcome
+1773766,1773763,192606,Paraplegia,outcome
+1773766,1773763,4091513,Passing flatus,outcome
+1773766,1773763,4112731,Polyp of intestine,outcome
+1773766,1773763,4202045,Postviral fatigue syndrome,outcome
+1773766,1773763,373478,Presbyopia,outcome
+1773766,1773763,46286594,Problem related to lifestyle,outcome
+1773766,1773763,439790,Psychalgia,outcome
+1773766,1773763,81634,Ptotic breast,outcome
+1773766,1773763,253954,Pulmonary tuberculosis,outcome
+1773766,1773763,4087647,Rectal mass,outcome
+1773766,1773763,380706,Regular astigmatism,outcome
+1773766,1773763,438688,Sarcoidosis,outcome
+1773766,1773763,4169984,Scar,outcome
+1773766,1773763,141932,Senile hyperkeratosis,outcome
+1773766,1773763,196236,Septic shock,outcome
+1773766,1773763,254443,Sjögren's syndrome,outcome
+1773766,1773763,36713918,Somatic dysfunction of lumbar region,outcome
+1773766,1773763,443172,"Splinter of face, without major open wound",outcome
+1773766,1773763,81151,Sprain of ankle,outcome
+1773766,1773763,72748,Strain of rotator cuff capsule,outcome
+1773766,1773763,378427,Tear film insufficiency,outcome
+1773766,1773763,134461,Tietze's disease,outcome
+1773766,1773763,437264,Tobacco dependence syndrome,outcome
+1773766,1773763,4234533,Tonsillitis,outcome
+1773766,1773763,4030042,Toxic goiter,outcome
+1773766,1773763,81893,Ulcerative colitis,outcome
+1773766,1773763,194083,Vaginitis and vulvovaginitis,outcome
+1773766,1773763,140641,Verruca vulgaris,outcome
+1773766,1773763,380038,Viral conjunctivitis,outcome
+1773766,1773763,4291005,Viral hepatitis,outcome
+1773766,1773763,4248870,Visceroptosis,outcome
+1773766,1773763,440193,Wristdrop,outcome
+1773766,1773763,4115367,Wrist joint pain,outcome
+1773767,1773752,434165,Abnormal cervical smear,outcome
+1773767,1773752,436409,Abnormal pupil,outcome
+1773767,1773752,199192,Abrasion and/or friction burn of trunk without infection,outcome
+1773767,1773752,4088290,Absence of breast,outcome
+1773767,1773752,4092879,Absent kidney,outcome
+1773767,1773752,436634,Acariasis,outcome
+1773767,1773752,44783954,Acid reflux,outcome
+1773767,1773752,75911,Acquired hallux valgus,outcome
+1773767,1773752,137951,Acquired keratoderma,outcome
+1773767,1773752,77965,Acquired trigger finger,outcome
+1773767,1773752,376707,Acute conjunctivitis,outcome
+1773767,1773752,4103640,Amputated foot,outcome
+1773767,1773752,432595,Amyloidosis,outcome
+1773767,1773752,73241,Anal and rectal polyp,outcome
+1773767,1773752,437082,Ankylosing spondylitis,outcome
+1773767,1773752,77650,Aseptic necrosis of bone,outcome
+1773767,1773752,378424,Astigmatism,outcome
+1773767,1773752,374923,Bell's palsy,outcome
+1773767,1773752,4110709,Benign epithelial neoplasm of skin,outcome
+1773767,1773752,133655,Burn of forearm,outcome
+1773767,1773752,73560,Calcaneal spur,outcome
+1773767,1773752,434327,Cannabis abuse,outcome
+1773767,1773752,4213540,Cervical somatic dysfunction,outcome
+1773767,1773752,381581,Chalazion,outcome
+1773767,1773752,140842,Changes in skin texture,outcome
+1773767,1773752,438531,Chondromalacia,outcome
+1773767,1773752,81378,Chondromalacia of patella,outcome
+1773767,1773752,432303,Cocaine abuse,outcome
+1773767,1773752,4201390,Colostomy present,outcome
+1773767,1773752,46269889,Complication due to Crohn's disease,outcome
+1773767,1773752,134438,Contact dermatitis,outcome
+1773767,1773752,78619,Contusion of knee,outcome
+1773767,1773752,201606,Crohn's disease,outcome
+1773767,1773752,260134,Croup,outcome
+1773767,1773752,76786,Derangement of knee,outcome
+1773767,1773752,4115402,Difficulty sleeping,outcome
+1773767,1773752,443767,Disorder of eye due to diabetes mellitus,outcome
+1773767,1773752,45757370,Disproportion of reconstructed breast,outcome
+1773767,1773752,433111,Effects of hunger,outcome
+1773767,1773752,441589,Endocarditis,outcome
+1773767,1773752,200775,Endometrial hyperplasia,outcome
+1773767,1773752,433527,Endometriosis,outcome
+1773767,1773752,73008,Enthesopathy,outcome
+1773767,1773752,4249170,Epicondylitis,outcome
+1773767,1773752,4170770,Epidermoid cyst,outcome
+1773767,1773752,4345472,Epstein-Barr virus disease,outcome
+1773767,1773752,4092896,Feces contents abnormal,outcome
+1773767,1773752,259995,Foreign body in orifice,outcome
+1773767,1773752,4050747,Fracture of upper limb,outcome
+1773767,1773752,196456,Gallstone,outcome
+1773767,1773752,40481632,Ganglion cyst,outcome
+1773767,1773752,4166231,Genetic predisposition,outcome
+1773767,1773752,74855,Genital herpes simplex,outcome
+1773767,1773752,433577,Hammer toe,outcome
+1773767,1773752,441818,Hemangioma,outcome
+1773767,1773752,4231770,Hereditary thrombophilia,outcome
+1773767,1773752,440329,Herpes zoster without complication,outcome
+1773767,1773752,4012570,High risk sexual behavior,outcome
+1773767,1773752,4038835,Hodgkin's disease,outcome
+1773767,1773752,4012934,Homocystinuria,outcome
+1773767,1773752,441788,Human papilloma virus infection,outcome
+1773767,1773752,380688,Hypoglycemic coma,outcome
+1773767,1773752,4254542,Hypopituitarism,outcome
+1773767,1773752,4201717,Ileostomy present,outcome
+1773767,1773752,374375,Impacted cerumen,outcome
+1773767,1773752,140480,Impetigo,outcome
+1773767,1773752,4344500,Impingement syndrome of shoulder region,outcome
+1773767,1773752,139099,Ingrowing nail,outcome
+1773767,1773752,444132,Injury of knee,outcome
+1773767,1773752,434926,Iridocyclitis,outcome
+1773767,1773752,196168,Irregular periods,outcome
+1773767,1773752,75576,Irritable bowel syndrome,outcome
+1773767,1773752,432593,Kwashiorkor,outcome
+1773767,1773752,434203,Late effect of contusion,outcome
+1773767,1773752,438329,Late effect of motor vehicle accident,outcome
+1773767,1773752,443285,Lesion of cervix,outcome
+1773767,1773752,195873,Leukorrhea,outcome
+1773767,1773752,440638,Lyme disease,outcome
+1773767,1773752,4083487,Macular drusen,outcome
+1773767,1773752,4156115,Malignant neoplasm of endocrine gland,outcome
+1773767,1773752,4103703,Melena,outcome
+1773767,1773752,4134455,Mononeuropathy,outcome
+1773767,1773752,4209423,Nicotine dependence,outcome
+1773767,1773752,377572,Noise effects on inner ear,outcome
+1773767,1773752,40480893,Nonspecific tuberculin test reaction,outcome
+1773767,1773752,136368,Non-toxic multinodular goiter,outcome
+1773767,1773752,4215978,Onychomycosis,outcome
+1773767,1773752,140648,Onychomycosis due to dermatophyte,outcome
+1773767,1773752,438130,Opioid abuse,outcome
+1773767,1773752,75354,Osteochondropathy,outcome
+1773767,1773752,192606,Paraplegia,outcome
+1773767,1773752,4091513,Passing flatus,outcome
+1773767,1773752,4112731,Polyp of intestine,outcome
+1773767,1773752,4202045,Postviral fatigue syndrome,outcome
+1773767,1773752,373478,Presbyopia,outcome
+1773767,1773752,46286594,Problem related to lifestyle,outcome
+1773767,1773752,439790,Psychalgia,outcome
+1773767,1773752,81634,Ptotic breast,outcome
+1773767,1773752,253954,Pulmonary tuberculosis,outcome
+1773767,1773752,4087647,Rectal mass,outcome
+1773767,1773752,380706,Regular astigmatism,outcome
+1773767,1773752,438688,Sarcoidosis,outcome
+1773767,1773752,4169984,Scar,outcome
+1773767,1773752,141932,Senile hyperkeratosis,outcome
+1773767,1773752,196236,Septic shock,outcome
+1773767,1773752,254443,Sjögren's syndrome,outcome
+1773767,1773752,36713918,Somatic dysfunction of lumbar region,outcome
+1773767,1773752,443172,"Splinter of face, without major open wound",outcome
+1773767,1773752,81151,Sprain of ankle,outcome
+1773767,1773752,72748,Strain of rotator cuff capsule,outcome
+1773767,1773752,378427,Tear film insufficiency,outcome
+1773767,1773752,134461,Tietze's disease,outcome
+1773767,1773752,437264,Tobacco dependence syndrome,outcome
+1773767,1773752,4234533,Tonsillitis,outcome
+1773767,1773752,4030042,Toxic goiter,outcome
+1773767,1773752,81893,Ulcerative colitis,outcome
+1773767,1773752,194083,Vaginitis and vulvovaginitis,outcome
+1773767,1773752,140641,Verruca vulgaris,outcome
+1773767,1773752,380038,Viral conjunctivitis,outcome
+1773767,1773752,4291005,Viral hepatitis,outcome
+1773767,1773752,4248870,Visceroptosis,outcome
+1773767,1773752,440193,Wristdrop,outcome
+1773767,1773752,4115367,Wrist joint pain,outcome
+1773768,1773761,434165,Abnormal cervical smear,outcome
+1773768,1773761,436409,Abnormal pupil,outcome
+1773768,1773761,199192,Abrasion and/or friction burn of trunk without infection,outcome
+1773768,1773761,4088290,Absence of breast,outcome
+1773768,1773761,4092879,Absent kidney,outcome
+1773768,1773761,436634,Acariasis,outcome
+1773768,1773761,44783954,Acid reflux,outcome
+1773768,1773761,75911,Acquired hallux valgus,outcome
+1773768,1773761,137951,Acquired keratoderma,outcome
+1773768,1773761,77965,Acquired trigger finger,outcome
+1773768,1773761,376707,Acute conjunctivitis,outcome
+1773768,1773761,4103640,Amputated foot,outcome
+1773768,1773761,432595,Amyloidosis,outcome
+1773768,1773761,73241,Anal and rectal polyp,outcome
+1773768,1773761,437082,Ankylosing spondylitis,outcome
+1773768,1773761,77650,Aseptic necrosis of bone,outcome
+1773768,1773761,378424,Astigmatism,outcome
+1773768,1773761,374923,Bell's palsy,outcome
+1773768,1773761,4110709,Benign epithelial neoplasm of skin,outcome
+1773768,1773761,133655,Burn of forearm,outcome
+1773768,1773761,73560,Calcaneal spur,outcome
+1773768,1773761,434327,Cannabis abuse,outcome
+1773768,1773761,4213540,Cervical somatic dysfunction,outcome
+1773768,1773761,381581,Chalazion,outcome
+1773768,1773761,140842,Changes in skin texture,outcome
+1773768,1773761,438531,Chondromalacia,outcome
+1773768,1773761,81378,Chondromalacia of patella,outcome
+1773768,1773761,432303,Cocaine abuse,outcome
+1773768,1773761,4201390,Colostomy present,outcome
+1773768,1773761,46269889,Complication due to Crohn's disease,outcome
+1773768,1773761,134438,Contact dermatitis,outcome
+1773768,1773761,78619,Contusion of knee,outcome
+1773768,1773761,201606,Crohn's disease,outcome
+1773768,1773761,260134,Croup,outcome
+1773768,1773761,76786,Derangement of knee,outcome
+1773768,1773761,4115402,Difficulty sleeping,outcome
+1773768,1773761,443767,Disorder of eye due to diabetes mellitus,outcome
+1773768,1773761,45757370,Disproportion of reconstructed breast,outcome
+1773768,1773761,433111,Effects of hunger,outcome
+1773768,1773761,441589,Endocarditis,outcome
+1773768,1773761,200775,Endometrial hyperplasia,outcome
+1773768,1773761,433527,Endometriosis,outcome
+1773768,1773761,73008,Enthesopathy,outcome
+1773768,1773761,4249170,Epicondylitis,outcome
+1773768,1773761,4170770,Epidermoid cyst,outcome
+1773768,1773761,4345472,Epstein-Barr virus disease,outcome
+1773768,1773761,4092896,Feces contents abnormal,outcome
+1773768,1773761,259995,Foreign body in orifice,outcome
+1773768,1773761,4050747,Fracture of upper limb,outcome
+1773768,1773761,196456,Gallstone,outcome
+1773768,1773761,40481632,Ganglion cyst,outcome
+1773768,1773761,4166231,Genetic predisposition,outcome
+1773768,1773761,74855,Genital herpes simplex,outcome
+1773768,1773761,433577,Hammer toe,outcome
+1773768,1773761,441818,Hemangioma,outcome
+1773768,1773761,4231770,Hereditary thrombophilia,outcome
+1773768,1773761,440329,Herpes zoster without complication,outcome
+1773768,1773761,4012570,High risk sexual behavior,outcome
+1773768,1773761,4038835,Hodgkin's disease,outcome
+1773768,1773761,4012934,Homocystinuria,outcome
+1773768,1773761,441788,Human papilloma virus infection,outcome
+1773768,1773761,380688,Hypoglycemic coma,outcome
+1773768,1773761,4254542,Hypopituitarism,outcome
+1773768,1773761,4201717,Ileostomy present,outcome
+1773768,1773761,374375,Impacted cerumen,outcome
+1773768,1773761,140480,Impetigo,outcome
+1773768,1773761,4344500,Impingement syndrome of shoulder region,outcome
+1773768,1773761,139099,Ingrowing nail,outcome
+1773768,1773761,444132,Injury of knee,outcome
+1773768,1773761,434926,Iridocyclitis,outcome
+1773768,1773761,196168,Irregular periods,outcome
+1773768,1773761,75576,Irritable bowel syndrome,outcome
+1773768,1773761,432593,Kwashiorkor,outcome
+1773768,1773761,434203,Late effect of contusion,outcome
+1773768,1773761,438329,Late effect of motor vehicle accident,outcome
+1773768,1773761,443285,Lesion of cervix,outcome
+1773768,1773761,195873,Leukorrhea,outcome
+1773768,1773761,440638,Lyme disease,outcome
+1773768,1773761,4083487,Macular drusen,outcome
+1773768,1773761,4156115,Malignant neoplasm of endocrine gland,outcome
+1773768,1773761,4103703,Melena,outcome
+1773768,1773761,4134455,Mononeuropathy,outcome
+1773768,1773761,4209423,Nicotine dependence,outcome
+1773768,1773761,377572,Noise effects on inner ear,outcome
+1773768,1773761,40480893,Nonspecific tuberculin test reaction,outcome
+1773768,1773761,136368,Non-toxic multinodular goiter,outcome
+1773768,1773761,4215978,Onychomycosis,outcome
+1773768,1773761,140648,Onychomycosis due to dermatophyte,outcome
+1773768,1773761,438130,Opioid abuse,outcome
+1773768,1773761,75354,Osteochondropathy,outcome
+1773768,1773761,192606,Paraplegia,outcome
+1773768,1773761,4091513,Passing flatus,outcome
+1773768,1773761,4112731,Polyp of intestine,outcome
+1773768,1773761,4202045,Postviral fatigue syndrome,outcome
+1773768,1773761,373478,Presbyopia,outcome
+1773768,1773761,46286594,Problem related to lifestyle,outcome
+1773768,1773761,439790,Psychalgia,outcome
+1773768,1773761,81634,Ptotic breast,outcome
+1773768,1773761,253954,Pulmonary tuberculosis,outcome
+1773768,1773761,4087647,Rectal mass,outcome
+1773768,1773761,380706,Regular astigmatism,outcome
+1773768,1773761,438688,Sarcoidosis,outcome
+1773768,1773761,4169984,Scar,outcome
+1773768,1773761,141932,Senile hyperkeratosis,outcome
+1773768,1773761,196236,Septic shock,outcome
+1773768,1773761,254443,Sjögren's syndrome,outcome
+1773768,1773761,36713918,Somatic dysfunction of lumbar region,outcome
+1773768,1773761,443172,"Splinter of face, without major open wound",outcome
+1773768,1773761,81151,Sprain of ankle,outcome
+1773768,1773761,72748,Strain of rotator cuff capsule,outcome
+1773768,1773761,378427,Tear film insufficiency,outcome
+1773768,1773761,134461,Tietze's disease,outcome
+1773768,1773761,437264,Tobacco dependence syndrome,outcome
+1773768,1773761,4234533,Tonsillitis,outcome
+1773768,1773761,4030042,Toxic goiter,outcome
+1773768,1773761,81893,Ulcerative colitis,outcome
+1773768,1773761,194083,Vaginitis and vulvovaginitis,outcome
+1773768,1773761,140641,Verruca vulgaris,outcome
+1773768,1773761,380038,Viral conjunctivitis,outcome
+1773768,1773761,4291005,Viral hepatitis,outcome
+1773768,1773761,4248870,Visceroptosis,outcome
+1773768,1773761,440193,Wristdrop,outcome
+1773768,1773761,4115367,Wrist joint pain,outcome
+1773769,1773763,434165,Abnormal cervical smear,outcome
+1773769,1773763,436409,Abnormal pupil,outcome
+1773769,1773763,199192,Abrasion and/or friction burn of trunk without infection,outcome
+1773769,1773763,4088290,Absence of breast,outcome
+1773769,1773763,4092879,Absent kidney,outcome
+1773769,1773763,436634,Acariasis,outcome
+1773769,1773763,44783954,Acid reflux,outcome
+1773769,1773763,75911,Acquired hallux valgus,outcome
+1773769,1773763,137951,Acquired keratoderma,outcome
+1773769,1773763,77965,Acquired trigger finger,outcome
+1773769,1773763,376707,Acute conjunctivitis,outcome
+1773769,1773763,4103640,Amputated foot,outcome
+1773769,1773763,432595,Amyloidosis,outcome
+1773769,1773763,73241,Anal and rectal polyp,outcome
+1773769,1773763,437082,Ankylosing spondylitis,outcome
+1773769,1773763,77650,Aseptic necrosis of bone,outcome
+1773769,1773763,378424,Astigmatism,outcome
+1773769,1773763,374923,Bell's palsy,outcome
+1773769,1773763,4110709,Benign epithelial neoplasm of skin,outcome
+1773769,1773763,133655,Burn of forearm,outcome
+1773769,1773763,73560,Calcaneal spur,outcome
+1773769,1773763,434327,Cannabis abuse,outcome
+1773769,1773763,4213540,Cervical somatic dysfunction,outcome
+1773769,1773763,381581,Chalazion,outcome
+1773769,1773763,140842,Changes in skin texture,outcome
+1773769,1773763,438531,Chondromalacia,outcome
+1773769,1773763,81378,Chondromalacia of patella,outcome
+1773769,1773763,432303,Cocaine abuse,outcome
+1773769,1773763,4201390,Colostomy present,outcome
+1773769,1773763,46269889,Complication due to Crohn's disease,outcome
+1773769,1773763,134438,Contact dermatitis,outcome
+1773769,1773763,78619,Contusion of knee,outcome
+1773769,1773763,201606,Crohn's disease,outcome
+1773769,1773763,260134,Croup,outcome
+1773769,1773763,76786,Derangement of knee,outcome
+1773769,1773763,4115402,Difficulty sleeping,outcome
+1773769,1773763,443767,Disorder of eye due to diabetes mellitus,outcome
+1773769,1773763,45757370,Disproportion of reconstructed breast,outcome
+1773769,1773763,433111,Effects of hunger,outcome
+1773769,1773763,441589,Endocarditis,outcome
+1773769,1773763,200775,Endometrial hyperplasia,outcome
+1773769,1773763,433527,Endometriosis,outcome
+1773769,1773763,73008,Enthesopathy,outcome
+1773769,1773763,4249170,Epicondylitis,outcome
+1773769,1773763,4170770,Epidermoid cyst,outcome
+1773769,1773763,4345472,Epstein-Barr virus disease,outcome
+1773769,1773763,4092896,Feces contents abnormal,outcome
+1773769,1773763,259995,Foreign body in orifice,outcome
+1773769,1773763,4050747,Fracture of upper limb,outcome
+1773769,1773763,196456,Gallstone,outcome
+1773769,1773763,40481632,Ganglion cyst,outcome
+1773769,1773763,4166231,Genetic predisposition,outcome
+1773769,1773763,74855,Genital herpes simplex,outcome
+1773769,1773763,433577,Hammer toe,outcome
+1773769,1773763,441818,Hemangioma,outcome
+1773769,1773763,4231770,Hereditary thrombophilia,outcome
+1773769,1773763,440329,Herpes zoster without complication,outcome
+1773769,1773763,4012570,High risk sexual behavior,outcome
+1773769,1773763,4038835,Hodgkin's disease,outcome
+1773769,1773763,4012934,Homocystinuria,outcome
+1773769,1773763,441788,Human papilloma virus infection,outcome
+1773769,1773763,380688,Hypoglycemic coma,outcome
+1773769,1773763,4254542,Hypopituitarism,outcome
+1773769,1773763,4201717,Ileostomy present,outcome
+1773769,1773763,374375,Impacted cerumen,outcome
+1773769,1773763,140480,Impetigo,outcome
+1773769,1773763,4344500,Impingement syndrome of shoulder region,outcome
+1773769,1773763,139099,Ingrowing nail,outcome
+1773769,1773763,444132,Injury of knee,outcome
+1773769,1773763,434926,Iridocyclitis,outcome
+1773769,1773763,196168,Irregular periods,outcome
+1773769,1773763,75576,Irritable bowel syndrome,outcome
+1773769,1773763,432593,Kwashiorkor,outcome
+1773769,1773763,434203,Late effect of contusion,outcome
+1773769,1773763,438329,Late effect of motor vehicle accident,outcome
+1773769,1773763,443285,Lesion of cervix,outcome
+1773769,1773763,195873,Leukorrhea,outcome
+1773769,1773763,440638,Lyme disease,outcome
+1773769,1773763,4083487,Macular drusen,outcome
+1773769,1773763,4156115,Malignant neoplasm of endocrine gland,outcome
+1773769,1773763,4103703,Melena,outcome
+1773769,1773763,4134455,Mononeuropathy,outcome
+1773769,1773763,4209423,Nicotine dependence,outcome
+1773769,1773763,377572,Noise effects on inner ear,outcome
+1773769,1773763,40480893,Nonspecific tuberculin test reaction,outcome
+1773769,1773763,136368,Non-toxic multinodular goiter,outcome
+1773769,1773763,4215978,Onychomycosis,outcome
+1773769,1773763,140648,Onychomycosis due to dermatophyte,outcome
+1773769,1773763,438130,Opioid abuse,outcome
+1773769,1773763,75354,Osteochondropathy,outcome
+1773769,1773763,192606,Paraplegia,outcome
+1773769,1773763,4091513,Passing flatus,outcome
+1773769,1773763,4112731,Polyp of intestine,outcome
+1773769,1773763,4202045,Postviral fatigue syndrome,outcome
+1773769,1773763,373478,Presbyopia,outcome
+1773769,1773763,46286594,Problem related to lifestyle,outcome
+1773769,1773763,439790,Psychalgia,outcome
+1773769,1773763,81634,Ptotic breast,outcome
+1773769,1773763,253954,Pulmonary tuberculosis,outcome
+1773769,1773763,4087647,Rectal mass,outcome
+1773769,1773763,380706,Regular astigmatism,outcome
+1773769,1773763,438688,Sarcoidosis,outcome
+1773769,1773763,4169984,Scar,outcome
+1773769,1773763,141932,Senile hyperkeratosis,outcome
+1773769,1773763,196236,Septic shock,outcome
+1773769,1773763,254443,Sjögren's syndrome,outcome
+1773769,1773763,36713918,Somatic dysfunction of lumbar region,outcome
+1773769,1773763,443172,"Splinter of face, without major open wound",outcome
+1773769,1773763,81151,Sprain of ankle,outcome
+1773769,1773763,72748,Strain of rotator cuff capsule,outcome
+1773769,1773763,378427,Tear film insufficiency,outcome
+1773769,1773763,134461,Tietze's disease,outcome
+1773769,1773763,437264,Tobacco dependence syndrome,outcome
+1773769,1773763,4234533,Tonsillitis,outcome
+1773769,1773763,4030042,Toxic goiter,outcome
+1773769,1773763,81893,Ulcerative colitis,outcome
+1773769,1773763,194083,Vaginitis and vulvovaginitis,outcome
+1773769,1773763,140641,Verruca vulgaris,outcome
+1773769,1773763,380038,Viral conjunctivitis,outcome
+1773769,1773763,4291005,Viral hepatitis,outcome
+1773769,1773763,4248870,Visceroptosis,outcome
+1773769,1773763,440193,Wristdrop,outcome
+1773769,1773763,4115367,Wrist joint pain,outcome
